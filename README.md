@@ -1,4 +1,4 @@
-# html5
+# html5 & css3 & javascript
 7天零基础掌握WEB技能  -  HTML&amp;CSS：Learn The Basis In 7 days
 
 --------------------------------------------------
@@ -11,4 +11,4 @@
 
 最后也可以做出一样的案例效果出来。
 
-Ok , Let's Go The New world.
+Ok , Let's Go The New world.:wink:
